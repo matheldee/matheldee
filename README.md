@@ -4,7 +4,7 @@ I'm Mathew, a Full-Stack Software Engineer from, Nigeria. I Spend most of my tim
 
 :coffee: &emsp; Let's connect and share ideas!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([[](https://www.facebook.com/ajah.m.uche?mibextid=ZbWKwL) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( [[](https://www.linkedin.com/in/uche-mathew-ajah-209787202)[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([[](https://twitter.com/Mathel454?t=z-NneugiXNZkENo1mTIaYQ&s=09)) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchem8338@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ajah.m.uche?mibextid=ZbWKwL) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uche-mathew-ajah-209787202)[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mathel454?t=z-NneugiXNZkENo1mTIaYQ&s=09) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchem8338@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `border: 1px solid` <br/>
